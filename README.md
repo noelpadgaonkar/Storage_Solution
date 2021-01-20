@@ -7,5 +7,5 @@ Device for wireless storage.[Raspberry Pi]
 
 Hardware Requirement
  Raspberry Pi [Raspberry OS installed]
- Lan Cabel connected with active internet 
+ Lan Cable connected with active internet 
  Storage Devices[Pen Drives, Hard Disks]
